@@ -17,6 +17,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         println("Re-Hello there")
         println("Hello, again")
         println("the Last Hello")
+        
+        println("Trying to set up a conflict to see what happens -.-\"")
     }
 
     func applicationWillTerminate(aNotification: NSNotification) {
