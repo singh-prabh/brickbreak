@@ -15,6 +15,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Insert code here to initialize your application
         println("Hello there")
         println("Re-Hello there")
+        println("Hello, again")
     }
 
     func applicationWillTerminate(aNotification: NSNotification) {
