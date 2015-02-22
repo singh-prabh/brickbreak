@@ -16,6 +16,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         println("Hello there")
         println("Re-Hello there")
         println("Hello, again")
+        println("the Last Hello")
     }
 
     func applicationWillTerminate(aNotification: NSNotification) {
