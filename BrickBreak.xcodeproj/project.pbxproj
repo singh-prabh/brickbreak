@@ -34,6 +34,7 @@
 		6516E8471A98CCC10040B48E /* BrickBreakTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrickBreakTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6516E84C1A98CCC10040B48E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6516E84D1A98CCC10040B48E /* BrickBreakTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrickBreakTests.swift; sourceTree = "<group>"; };
+		65E3AB251A99E42900274247 /* BrickBreak.asta */ = {isa = PBXFileReference; lastKnownFileType = file; path = BrickBreak.asta; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 		6516E8381A98CCC10040B48E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				65E3AB251A99E42900274247 /* BrickBreak.asta */,
 				6516E8391A98CCC10040B48E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -398,6 +400,7 @@
 				6516E8531A98CCC10040B48E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6516E8541A98CCC10040B48E /* Build configuration list for PBXNativeTarget "BrickBreakTests" */ = {
 			isa = XCConfigurationList;
@@ -406,6 +409,7 @@
 				6516E8561A98CCC10040B48E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
